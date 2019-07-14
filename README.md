@@ -1,7 +1,7 @@
 # Invetory-Age-Automation
 A program in python that automates the Dirty Dozen report. The Dirty Dozen is a list of the 12 oldest cars at the dealerships.
 
-The script is named ‘dirtydozen.py’. The input file is a excel file with inventories from six dealerships named 'DDC.xlxs'. The output is the same ‘DDC.xlsx’ file with the first three tabs filled: ‘Dirty Dozen’, ‘Excluded’ and ‘All Stores’. ‘dirtydozen.py’ and ‘DDC.xlsx’ should be in the same folder before running the program. The program takes approximately 30 seconds to run. You'll notice that the output tabs are not formatted. This is because I wrote the output back into the original spreadsheet. The output tables can be formatted if the program produces a new file as the output. This can be implemented in a later version.
+The script is named ‘dirtydozen.py’. The input file is a excel file with inventories from six dealerships named 'DDC.xlxs'. I have included an empty copy of the inventory file. The output is the same ‘DDC.xlsx’ file with the first three tabs filled: ‘Dirty Dozen’, ‘Excluded’ and ‘All Stores’. ‘dirtydozen.py’ and ‘DDC.xlsx’ should be in the same folder before running the program. The program takes approximately 30 seconds to run. You'll notice that the output tabs are not formatted. This is because I wrote the output back into the original spreadsheet. The output tables can be formatted if the program produces a new file as the output. This can be implemented in a later version.
 
 
 The program is written in python3 and requires you to install the following packages:
